@@ -8,7 +8,7 @@
 
 <div align="center">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Praphull+Verma;A+Full+Stack+Developer;Passionate+About+Tech+%26+Coding;Always+Learning+New+Things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Praphull;A+Full+Stack+Developer;Passionate+About+Tech+%26+Coding;Always+Learning+New+Things">
 </p>
 </div>
 
