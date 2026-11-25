@@ -284,6 +284,28 @@ A full-stack employee training platform with a structured backend architecture, 
 
 </div>
 
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/praphull-verma/praphull-verma/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/praphull-verma/praphull-verma/output/snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/praphull-verma/praphull-verma/output/snake.svg"
+  />
+</picture>
+
+</div>
+
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
