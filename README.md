@@ -1,7 +1,5 @@
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         HEADER                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
@@ -34,64 +32,44 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== ABOUT ME ==================== -->
 
-## 01 / About me
+## 01 / Behind the keyboard
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img align="right" width="35%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b32a8c179531059.64fb11033cc3c.gif" alt="Developer animation"/>
 
-I'm a Computer Engineering student and backend-focused full-stack developer based in India.
+```yaml
+name: Praphull Verma
+role: Backend-Focused Full Stack Developer
+location: India
+education: Computer Engineering
 
-I'm interested in understanding how software works beneath the surface — from database architecture and authentication to API design and distributed systems.
+currently:
+  - Building backend systems
+  - Exploring software architecture
+  - Practising data structures & algorithms
+  - Leading web development at GDG
 
-I enjoy building applications that solve meaningful problems, with an emphasis on clean architecture, maintainability, and reliability.
+interests:
+  - Scalable software
+  - System design
+  - Developer experience
 
-- Currently exploring backend engineering and system design.
-- Strengthening my problem-solving skills through DSA.
-- Web Development Lead at GDG On Campus.
-- Open to software engineering and backend development internships.
-
-</td>
-<td width="38%" align="center">
-
-<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b32a8c179531059.64fb11033cc3c.gif" alt="Developer animation"/>
-
-</td>
-</tr>
-</table>
-
-```typescript
-const developer = {
-  name: "Praphull Verma",
-  location: "India",
-  role: "Backend-Focused Full Stack Developer",
-
-  interests: [
-    "Backend Engineering",
-    "System Design",
-    "Database Architecture",
-    "Problem Solving"
-  ],
-
-  currentlyLearning: [
-    "Scalable Backend Systems",
-    "Data Structures & Algorithms",
-    "Software Architecture"
-  ],
-
-  philosophy: "Understand the problem before building the solution."
-};
+status: Open to opportunities
 ```
+
+<br clear="all"/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-Software%20That%20Matters-B4A0E5?style=for-the-badge&labelColor=161B22" alt="Building software that matters"/>
+<img src="https://img.shields.io/badge/STATUS-Available%20For%20Opportunities-7EE787?style=for-the-badge&labelColor=161B22" alt="Available for opportunities"/>
+
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== TECH STACK ==================== -->
 
 ## 02 / Technical arsenal
 
@@ -181,82 +159,73 @@ const developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-## 03 / Selected work
+## 03 / Things I've built
 
-> A collection of things I've built, problems I've explored, and ideas I've turned into software.
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>PROJECT / 001</sub>
 
 ### CampusConnect
 
-<img src="https://img.shields.io/badge/Student_Collaboration_Platform-302447?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Student_Collaboration_Platform-B4A0E5?style=flat-square&labelColor=161B22" alt="Student collaboration platform"/>
 
-A platform designed to help students discover teammates, build professional connections, collaborate on projects, and communicate in real time.
+Connecting students, ideas, and opportunities through real-time collaboration.
 
-**Key features**
+```text
+CampusConnect
+├── Student Discovery
+├── Real-time Messaging
+├── Team Management
+└── File Sharing
+```
 
-- Student networking and discovery
-- Real-time messaging
-- Public and private teams
-- Team collaboration and file sharing
-
-<img src="https://skillicons.dev/icons?i=js,firebase,supabase,vercel&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=js,firebase,supabase,vercel&theme=dark" height="40" alt="CampusConnect tech stack"/>
 
 <br/><br/>
 
 <a href="https://campusconnect.quest">
-  <img src="https://img.shields.io/badge/Live_Project-B4A0E5?style=for-the-badge&logo=vercel&logoColor=161B22"/>
+  <img src="https://img.shields.io/badge/Explore_Project-B4A0E5?style=for-the-badge&logo=vercel&logoColor=161B22" alt="Explore CampusConnect"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+---
+
+<sub>PROJECT / 002</sub>
 
 ### Employee Training Platform
 
-<img src="https://img.shields.io/badge/Enterprise_Application-302447?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack_Application-B4A0E5?style=flat-square&labelColor=161B22" alt="Full stack application"/>
 
-A full-stack employee training platform with a structured backend architecture, authentication, database management, and media handling.
+A structured backend application focused on authentication, database architecture, and media management.
 
-**Key features**
+```text
+Employee Training Platform
+├── RESTful API Architecture
+├── JWT Authentication
+├── Relational Data Modelling
+└── Cloud Media Management
+```
 
-- RESTful API architecture
-- JWT-based authentication
-- Relational database modelling
-- Cloud-based media management
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres&theme=dark" height="40" alt="Employee Training Platform tech stack"/>
 
 <br/><br/>
 
 <a href="https://github.com/praphull-verma/ERP-Website">
-  <img src="https://img.shields.io/badge/View_Repository-B4A0E5?style=for-the-badge&logo=github&logoColor=161B22"/>
+  <img src="https://img.shields.io/badge/Explore_Repository-B4A0E5?style=for-the-badge&logo=github&logoColor=161B22" alt="Explore repository"/>
 </a>
 
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
 
 <a href="https://github.com/praphull-verma?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=B4A0E5"/>
+  <img src="https://img.shields.io/badge/All_Projects-161B22?style=for-the-badge&logo=github&logoColor=B4A0E5" alt="All projects"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      GITHUB ANALYTICS                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## 04 / GitHub in numbers
 
@@ -280,10 +249,7 @@ A full-stack employee training platform with a structured backend architecture, 
 
 <br/>
 
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION GRAPH                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
 ## 05 / The contribution timeline
 
@@ -292,7 +258,6 @@ A full-stack employee training platform with a structured backend architecture, 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praphull-verma&bg_color=0D1117&color=B4A0E5&line=B4A0E5&point=F5F0FF&area=true&area_color=302447&hide_border=true&custom_title=Consistency%20over%20perfection" alt="Contribution activity graph"/>
 
 </div>
-
 
 <div align="center">
 
@@ -314,48 +279,58 @@ A full-stack employee training platform with a structured backend architecture, 
 
 </div>
 
+<br/>
+
+<!-- ==================== ENGINEERING MINDSET ==================== -->
+
+## 06 / The engineering mindset
+
+<div align="center">
+
+<h3>What I love building</h3>
+
+<img src="https://img.shields.io/badge/Backend_Architecture-161B22?style=for-the-badge&logo=spring&logoColor=B4A0E5" alt="Backend architecture"/>
+<img src="https://img.shields.io/badge/API_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=B4A0E5" alt="API engineering"/>
+<img src="https://img.shields.io/badge/Database_Engineering-161B22?style=for-the-badge&logo=postgresql&logoColor=B4A0E5" alt="Database engineering"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       CURRENT FOCUS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=B4A0E5" alt="System design"/>
+<img src="https://img.shields.io/badge/Authentication_%26_Security-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=B4A0E5" alt="Authentication and security"/>
+<img src="https://img.shields.io/badge/Algorithms-161B22?style=for-the-badge&logo=leetcode&logoColor=B4A0E5" alt="Algorithms"/>
 
-## 06 / Beyond the code
+<br/><br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h3>Beyond individual development</h3>
 
-### Engineering interests
+<img src="https://img.shields.io/badge/Google_Developer_Groups-On_Campus-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG On Campus"/>
 
-- Backend architecture
-- RESTful API design
-- Database engineering
-- Authentication and authorization
-- Distributed systems
-- Data structures and algorithms
+<h3>Web Development Lead</h3>
 
-</td>
-<td width="50%" valign="top">
+<p>Building communities. Sharing knowledge. Creating together.</p>
 
-### Community & leadership
+<img src="https://img.shields.io/badge/Leadership-302447?style=flat-square" alt="Leadership"/>
+<img src="https://img.shields.io/badge/Community-302447?style=flat-square" alt="Community"/>
+<img src="https://img.shields.io/badge/Hackathons-302447?style=flat-square" alt="Hackathons"/>
+<img src="https://img.shields.io/badge/Collaboration-302447?style=flat-square" alt="Collaboration"/>
 
-- Web Development Lead — GDG On Campus
-- Hackathons and collaborative development
-- Exploring new technologies
-- Building developer-oriented projects
-- Continuous learning
+</div>
 
-</td>
-</tr>
-</table>
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   BUILD           LEARN          COLLABORATE    │
+│      │              │                  │        │
+│      └──────────────┼──────────────────┘        │
+│                     ▼                           │
+│              BETTER ENGINEERING                 │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         CONTACT                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== CONTACT ==================== -->
 
 ## 07 / Let's build something
 
