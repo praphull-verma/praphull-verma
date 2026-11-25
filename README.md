@@ -262,7 +262,7 @@ A full-stack employee training platform with a structured backend architecture, 
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=praphull-verma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B4A0E5&text_color=C9D1D9&icon_color=B4A0E5&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=praphull-verma&hide_border=true&background=0D1117&ring=B4A0E5&fire=B4A0E5&currStreakLabel=B4A0E5&currStreakNum=F5F0FF&sideNums=F5F0FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=praphull-verma&hide_border=true&background=0D1117&ring=B4A0E5&fire=B4A0E5&currStreakLabel=B4A0E5&currStreakNum=F5F0FF&sideNums=F5F0FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
 
 <br/><br/>
 
