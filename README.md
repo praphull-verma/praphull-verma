@@ -256,21 +256,30 @@ A full-stack employee training platform with a structured backend architecture, 
 <!--                      GITHUB ANALYTICS                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+
+
 ## 04 / GitHub in numbers
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=praphull-verma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B4A0E5&text_color=C9D1D9&icon_color=B4A0E5&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=praphull-verma&cc=0D1117&tc=B4A0E5&ic=B4A0E5&bc=0D1117" alt="GitHub statistics"/>
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=praphull-verma&hide_border=true&background=0D1117&ring=B4A0E5&fire=B4A0E5&currStreakLabel=B4A0E5&currStreakNum=F5F0FF&sideNums=F5F0FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praphull-verma&layout=compact&hide_border=true&bg_color=0D1117&title_color=B4A0E5&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praphull-verma&theme=tokyonight" alt="Languages by repository"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praphull-verma&theme=tokyonight" alt="Languages by commits"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praphull-verma&theme=tokyonight" alt="Profile contribution details"/>
 
 </div>
 
 <br/>
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION GRAPH                     -->
