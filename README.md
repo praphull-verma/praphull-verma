@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/github/followers/praphull-verma?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=B4A0E5" alt="Followers"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=praphull-verma&label=PROFILE+VISITORS&color=9B87CE&style=flat-square" alt="Profile Views"/>
 
@@ -93,61 +93,61 @@ status: Open to opportunities
 
 <sub><b>01 &nbsp; · &nbsp; LANGUAGES</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=java,ts,js,python,c&theme=dark" alt="Programming languages"/>
 
-<br/><br/>
+<br/>
 
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>02 &nbsp; · &nbsp; BACKEND</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Backend frameworks"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>03 &nbsp; · &nbsp; FRONTEND</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend technologies"/>
 
-<br/><br/>
+<br/>
 
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>04 &nbsp; · &nbsp; DATABASES &amp; ORM</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase,supabase&theme=dark" alt="Databases"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>05 &nbsp; · &nbsp; TOOLS &amp; INFRASTRUCTURE</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vercel&theme=dark" alt="Developer tools"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>06 &nbsp; · &nbsp; DEVELOPMENT ENVIRONMENT</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,neovim,figma&theme=dark" alt="Development environment"/>
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                 FEATURED PROJECTS               -->
@@ -177,27 +177,27 @@ Connecting students, ideas, and opportunities through real-time collaboration.
 &nbsp;
 <kbd>Real-time Messaging</kbd>
 
-<br/><br/>
+<br/>
 
 <kbd>Team Management</kbd>
 &nbsp;
 <kbd>File Sharing</kbd>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=js,firebase,supabase,vercel&theme=dark" height="40" alt="CampusConnect tech stack"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://campusconnect.quest">
   <img src="https://img.shields.io/badge/Explore_Project-B4A0E5?style=for-the-badge&logo=vercel&logoColor=161B22" alt="Explore CampusConnect"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<br/><br/>
+<br/>
 
 <sub>— &nbsp; PROJECT / 002 &nbsp; —</sub>
 
@@ -205,7 +205,7 @@ Connecting students, ideas, and opportunities through real-time collaboration.
 
 <img src="https://img.shields.io/badge/Full_Stack_Application-B4A0E5?style=flat-square&labelColor=161B22" alt="Full stack application"/>
 
-<br/><br/>
+<br/>
 
 <p>
 A structured backend application focused on authentication, database architecture, and media management.
@@ -217,17 +217,17 @@ A structured backend application focused on authentication, database architectur
 &nbsp;
 <kbd>JWT Authentication</kbd>
 
-<br/><br/>
+<br/>
 
 <kbd>Relational Data Modelling</kbd>
 &nbsp;
 <kbd>Cloud Media Management</kbd>
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres&theme=dark" height="40" alt="Employee Training Platform tech stack"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/praphull-verma/ERP-Website">
   <img src="https://img.shields.io/badge/Explore_Repository-B4A0E5?style=for-the-badge&logo=github&logoColor=161B22" alt="Explore repository"/>
@@ -237,7 +237,7 @@ A structured backend application focused on authentication, database architectur
 
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/praphull-verma?tab=repositories">
   <img src="https://img.shields.io/badge/All_Projects-161B22?style=for-the-badge&logo=github&logoColor=B4A0E5" alt="All projects"/>
@@ -245,7 +245,7 @@ A structured backend application focused on authentication, database architectur
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                  GITHUB ANALYTICS               -->
@@ -267,7 +267,7 @@ A structured backend application focused on authentication, database architectur
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praphull-verma&theme=tokyonight" alt="Languages by commits"/>
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praphull-verma&theme=tokyonight" alt="Profile contribution details"/>
 
@@ -321,29 +321,29 @@ A structured backend application focused on authentication, database architectur
 
 <sub><b>— &nbsp; WHAT I LOVE BUILDING &nbsp; —</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Backend_Architecture-161B22?style=for-the-badge&logo=spring&logoColor=B4A0E5" alt="Backend architecture"/>
 &nbsp;
 <img src="https://img.shields.io/badge/API_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=B4A0E5" alt="API engineering"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Database_Engineering-161B22?style=for-the-badge&logo=postgresql&logoColor=B4A0E5" alt="Database engineering"/>
 &nbsp;
 <img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=B4A0E5" alt="System design"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Authentication_%26_Security-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=B4A0E5" alt="Authentication and security"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Algorithms-161B22?style=for-the-badge&logo=leetcode&logoColor=B4A0E5" alt="Algorithms"/>
 
-<br/><br/>
+<br/>
 
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>— &nbsp; BEYOND INDIVIDUAL DEVELOPMENT &nbsp; —</b></sub>
 
@@ -420,11 +420,11 @@ collaboration opportunities, and connecting with curious people.
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=B4A0E5" alt="Connect on LinkedIn"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<br/><br/>
+<br/>
 
 <sub>
 <b>BUILD WITH PURPOSE</b>
@@ -434,7 +434,7 @@ collaboration opportunities, and connecting with curious people.
 <b>ENGINEER WITH INTENTION</b>
 </sub>
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,50:302447,100:B4A0E5"/>
 
